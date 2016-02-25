@@ -65,7 +65,8 @@ Executable elm-reactor
     Compile,
     Index,
     Socket,
-    Utils
+    Utils,
+    Paths_elm_reactor
 
   Build-depends:
     base >=4.2 && <5,
